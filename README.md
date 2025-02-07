@@ -28,8 +28,10 @@ python drowsiness_detection.py
 
 
 Folder Structure
+
 /drowsiness-detection
-│── facial-landmarks-recognition/
+
+│── facial-landmarks-recognition
 │   ├── shape_predictor_68_face_landmarks.dat  # Pre-trained dlib model
 │── alarm.mp3  # Alarm sound file
 │── drowsiness_detection.py  # Main script
